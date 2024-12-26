@@ -1,0 +1,9 @@
+[package]
+name = "day_21"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+utils = { path="../utils" }
+itertools = "0.13.0"
+lazy_static = "1.4"
